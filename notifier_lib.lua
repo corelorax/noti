@@ -1,3 +1,8 @@
+--// credits to the owner Akali?
+
+--// loadstring retainment purposes
+
+
 local TweenService = game:GetService("TweenService");
 local RunService = game:GetService("RunService");
 local TextService = game:GetService("TextService");
